@@ -36,7 +36,7 @@ n.sub(20,10);
 }
 }
 
-rsult:javac -d.ECEB.java
+result:javac -d.ECEB.java
 javac -d.ECEB1.java
 javac mypack.java
 java mypack
